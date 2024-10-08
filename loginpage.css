@@ -44,7 +44,22 @@ h2{
     transform: translateY(-50%);
     font-size: 1em;
     pointer-events: none;
+    color: #fff;
     
+}
+.input-box input{
+    width: 100%;
+    background: transparent;
+    outline: none;
+    border: none;
+    font-size: 1em;
+    color: #fff;
 
+}
+
+.input-box .icon{
+    position: absolute;
+    right: 8px;
+    
 
 }
